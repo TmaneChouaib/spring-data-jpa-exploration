@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/patients-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-Data-JPA-exploration/pom.xml" />
       </list>
     </option>
   </component>

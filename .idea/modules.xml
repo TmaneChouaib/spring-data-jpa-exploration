@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/patients-jpa/patients-jpa.iml" filepath="$PROJECT_DIR$/patients-jpa/patients-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-Data-JPA-exploration/spring-Data-JPA-exploration.iml" filepath="$PROJECT_DIR$/spring-Data-JPA-exploration/spring-Data-JPA-exploration.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring00.iml" filepath="$PROJECT_DIR$/.idea/spring00.iml" />
     </modules>
   </component>
